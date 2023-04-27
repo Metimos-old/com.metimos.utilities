@@ -1,0 +1,27 @@
+{
+  "type": "tool",
+  "name": "com.metimos.utilities",
+  "version": "1.0.0",
+  "displayName": "Metimos Utilities",
+  "description": "A variety of utilities that provides useful design patterns, methods, extensions, editor tools, and other classes.",
+  "unity": "2021.2",
+  "unityRelease": "0f1",
+  "documentationUrl": "http://metimos.com/docs",
+  "author": {
+    "name": "Metimos",
+    "email": "contact@metimos.com",
+    "url": "http://metimos.com/"
+  },
+  "keywords": [
+    "utility",
+    "tool",
+    "design",
+    "animation",
+    "extension",
+    "editor",
+    "optimize",
+    "blend mode",
+    "grid",
+    "logging"
+  ]
+}
